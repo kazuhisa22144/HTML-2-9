@@ -91,12 +91,12 @@ main{
   width: 100%;
   position: relative;
   margin-bottom:20px;
+  margin-top: 0;
 }
 
 .step-box:first-child{
   margin-top:50px;
 }
-
 
 
 
